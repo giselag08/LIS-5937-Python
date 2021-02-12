@@ -3,6 +3,7 @@
 'GonZAlez'.upper()
 "I am new to programming".split()
 ''.join(['I', 'am','new','to','programming'])
+# Write a Python function to insert string in the middle of a string 
 'Python rocks'.find('oc')
 'Python rocks'.replace('rocks','cool')
 line = 'UF'
